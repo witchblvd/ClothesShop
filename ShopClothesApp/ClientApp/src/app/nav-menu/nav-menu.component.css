@@ -23,3 +23,24 @@ html {
 .dropdown-menu a{
     color:white;
 }
+.blue_link_nav{
+    color:white;
+}
+.blue_link_nav:hover{
+    color:dodgerblue;
+
+}
+.bi-person {
+  color:white;
+  margin-right:150px;
+}
+.bi-person:hover {
+  color: #FFF176;
+}
+.svg-background {
+  background: url("../../assets/images/06logo.svg") no-repeat;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
